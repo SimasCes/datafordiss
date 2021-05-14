@@ -1,0 +1,12 @@
+DataName,Huffman,RLE,LZ78,LZW
+Poem,1.40,0.51,1.28,1.73
+Short story,1.70,0.51,1.53,2.24
+Link,0.79,0.53,0.77,1.10
+Hello World,0.85,0.51,0.77,1.10
+Huffman,1.46,0.51,1.44,2.10
+DNA small,3.93,0.72,2.04,3.28
+DNA medium,4.00,0.72,2.86,4.83
+DNA large,4.00,0.71,3.01,5.14
+Music small,1.38,0.51,1.04,1.49
+Music medium,1.84,0.50,1.66,2.38
+Music large,1.55,0.52,1.59,2.35
